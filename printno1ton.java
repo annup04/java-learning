@@ -6,8 +6,9 @@ public class printno1ton {
         int range = sc.nextInt();
         int counter = 1;
         while (counter <= range) {
-            System.out.println(counter + "");
-       counter++; }
+            System.out.println1(counter + "");
+            counter++;
+        }
         System.out.println();
     }
 }
