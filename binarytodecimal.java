@@ -13,6 +13,6 @@ System.out.println("Decimal of"+ binNum+" "+decNum);
 
     }
     public static void main(String[] args) {
-   binToDec(101);
+   binToDec(1010);
     }
 }
